@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.image-container img {
+    width: 50%;
+    -webkit-filter: drop-shadow(50px 70px 50px #6b6b6b);
+    filter: drop-shadow(50px 70px 50px #9b9b9b);
+}
